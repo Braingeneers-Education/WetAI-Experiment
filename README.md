@@ -1,5 +1,5 @@
 # WetAI: Collaborative Neurobiology
-## Assignment: Experiment
+## Assignment #3: Experiment
 
 ## Getting Started
 
